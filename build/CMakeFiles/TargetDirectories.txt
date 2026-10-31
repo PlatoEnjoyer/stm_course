@@ -1,0 +1,6 @@
+/Users/tim/prog/stm_course/build/CMakeFiles/stm32_template.dir
+/Users/tim/prog/stm_course/build/CMakeFiles/bin.dir
+/Users/tim/prog/stm_course/build/CMakeFiles/hex.dir
+/Users/tim/prog/stm_course/build/CMakeFiles/flash.dir
+/Users/tim/prog/stm_course/build/CMakeFiles/edit_cache.dir
+/Users/tim/prog/stm_course/build/CMakeFiles/rebuild_cache.dir
